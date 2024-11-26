@@ -1,7 +1,6 @@
 import 'bootstrap/dist/js/bootstrap.bundle.min.js'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import mithunlogo from './assets/mithun_logo.png'
-import './App.css'
 
 function App() {
 
